@@ -1,0 +1,125 @@
+City Name,Longitude,Latitude,Confirmed
+Agra,78.01,27.19,78
+Ahmedabad,72.58,23.03,141
+Ahmednagar,74.748,19.0948,25
+Amritsar,74.87,31.64,11
+Anantapur,77.59,14.7,13
+Aurangabad,84.37,24.75,17
+Bandipora,74.6869,34.5052,39
+Banswara,74.44,23.54,12
+Baramulla,74.3587,34.1595,29
+Barwani,74.9033,22.0363,12
+Belagavi,74.4977,15.8497,10
+Bengaluru Urban,77.56,12.97,40
+Bhavnagar,72.13,21.79,18
+Bhilwara,74.63,25.35,28
+Bhopal,77.4,23.24,98
+Bidar,77.52,17.92,10
+Bikaner,73.32,28.03,20
+Budgam,74.64,33.9349,11
+Buldhana,76.1842,20.5292,11
+Chandigarh,76.78,30.75,18
+Chengalpattu,79.97,12.7,27
+Chennai,80.27,13.09,162
+Chikkaballapura,77.7315,13.4355,11
+Chittoor,79.1,13.22,20
+Churu,74.96,28.31,11
+Coimbatore,76.96,11.01,60
+Cuddalore,79.7714,11.748,13
+Dehradun,78.05,30.34,17
+Dindigul,77.97,10.36,46
+East Godavari,82.0407,17.3213,12
+Ernakulam,76.22,10.02,18
+Erode,77.73,11.35,54
+Faridabad,77.3,28.38,28
+Firozabad,78.39,27.15,11
+Gandhinagar,72.63,23.3,13
+Gautam Buddha Nagar,77.6078,28.3383,61
+Ghaziabad,77.41,28.66,24
+Guntur,80.44,16.31,51
+Gurugram,77.0266,28.4595,32
+Hyderabad,78.48,17.4,224
+Indore,75.86,22.72,221
+Jaipur,75.8,26.92,167
+Jaisalmer,70.9,26.92,19
+Jalandhar,75.57,31.33,11
+Jammu,74.85,32.71,19
+Jhunjhunu,75.39,28.13,31
+Jodhpur,73.02,26.29,34
+Jogulamba Gadwal,77.8,16.23,17
+Kamareddy,78.337,18.3205,10
+Kannur,75.35,11.86,42
+Kanyakumari,77.43,8.18,14
+Karimnagar,79.13,18.45,18
+Karur,78.07,10.96,22
+Kasaragod,74.9869,12.4996,156
+Khargone,75.6,21.83,12
+Khordha,85.4788,20.1301,38
+Korba,82.69,22.35,10
+Kota,75.83,25.18,17
+Kozhikode,75.78,11.26,10
+Krishna,80.7214,16.61,35
+Kupwara,74.2546,34.5262,15
+Kurnool,78.0373,15.8281,74
+Leh,77.5771,34.1526,11
+Lucknow,80.9462,26.8467,29
+Ludhiana,75.84,30.91,10
+Madurai,78.12,9.92,25
+Mahabubnagar,78.0035,16.7488,10
+Malappuram,76.06,11.07,16
+Mansa,75.39,29.98,11
+Meerut,77.7064,28.9845,38
+Morena,77.99,26.51,13
+Mumbai,72.82,18.96,876
+Mysuru,76.6394,12.2958,35
+Nagapattinam,79.84,10.8,12
+Nagpur,79.08,21.16,19
+Nalgonda,79.26,17.06,12
+Namakkal,78.17,11.23,41
+Nirmal,78.35,19.12,15
+Nizamabad,78.1,18.68,49
+Nuh,76.9931,28.1024,38
+Palghar,72.75,19.68,14
+Palwal,77.32,28.15,28
+Patan,72.11,23.86,12
+Prakasam,79.5603,15.3485,39
+Pune,73.84,18.53,203
+Rajkot,70.79,22.31,13
+Ranga Reddy,77.8367,17.3891,23
+Ranipet,79.319,12.9487,27
+S.A.S. Nagar,76.7179,76.7179,37
+S.P.S. Nellore,79.9193,14.2581,47
+Saharanpur,77.54,29.97,20
+Salem,78.146,11.6643,14
+Sangli,74.5815,16.8524,26
+Shahid Bhagat Singh Nagar,76.1186,31.1256,19
+Shamli,77.3172,29.4502,17
+Shopiyan,74.8039,33.7594,14
+Sitapur,80.679,27.568,10
+Siwan,84.35,26.2243,27
+South Delhi,77.1873,28.4817,26
+Srinagar,74.79,34.09,46
+Surat,72.82,21.2,24
+Thane,72.9781,19.2183,97
+Thanjavur,79.13,10.79,11
+Theni,77.48,10.02,41
+Thiruvallur,79.912,13.1231,13
+Thiruvananthapuram,76.95,8.51,10
+Thiruvarur,79.6344,10.7661,13
+Thoothukkudi,78.14,8.81,22
+Thrissur,76.21,10.52,11
+Tiruchirappalli,78.69,10.81,36
+Tirunelveli,77.69,8.73,58
+Tirupathur,78.57,12.5,16
+Tiruppur,77.35,11.09,26
+Tonk,75.78,26.17,27
+Ujjain,75.78,23.19,15
+Una,71.03,20.82,12
+Vadodara,73.18,22.31,22
+Vellore,79.13,79.13,11
+Viluppuram,79.49,11.95,24
+Virudhunagar,77.95,9.59,11
+Visakhapatnam,83.3,17.73,19
+Warangal Urban,79.58,18.01,20
+West Godavari,81.3399,16.9174,22
+Y.S.R. Kadapa,78.81,14.48,29
